@@ -1,0 +1,6 @@
+Selected Appliances:
+Lamp - Power Consumption: 25W, Burn: 1 units/day
+Microwave - Power Consumption: 800W, Burn: 8 units/day
+Laptop - Power Consumption: 50W, Burn: 2 units/day
+TV - Power Consumption: 100W, Burn: 3 units/day
+Fridge - Power Consumption: 200W, Burn: 5 units/day
